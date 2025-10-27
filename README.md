@@ -84,7 +84,7 @@
 ### 사용자
 | 홈 | 예적금 메인 | 근처 영업점 | 맞춤상품 추천 | 운세테스트 | 함께걷는 적금 |
 | --- | --- | --- | --- | --- | --- |
-|<img src="images/홈.gif" alt="홈" width="88"/>|<img src="images/예적금메인.png" alt="예적금 메인" width="110"/>|<img src="images/근처영업점.png" alt="근처 영업점" width="110"/>|<img src="images/맞춤상품추천.gif" alt="맞춤상품 추천" width="88"/>|<img src="images/운세테스트.gif" alt="운세테스트" width="88"/>|<img src="images/함께걷는적금.gif" alt="함께걷는 적금"  width="88"/>|
+|<img src="images/홈.gif" alt="홈" width="88"/>|<img src="images/예적금메인.gif" alt="예적금 메인" width="88"/>|<img src="images/근처영업점.gif" alt="근처 영업점" width="88"/>|<img src="images/맞춤상품추천.gif" alt="맞춤상품 추천" width="88"/>|<img src="images/운세테스트.gif" alt="운세테스트" width="88"/>|<img src="images/함께걷는적금.gif" alt="함께걷는 적금"  width="88"/>|
 
 ### 관리자
 | 관리자 대시보드 | 관리자 리포트 | 푸시알림 관리 |
